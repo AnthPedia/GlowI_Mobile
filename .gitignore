@@ -1,3 +1,8 @@
+# =============== DEVELOPMENT ===============
+.env
+node_modules
+
+# =============== REACT NATIVE ===============
 # OSX
 #
 .DS_Store
